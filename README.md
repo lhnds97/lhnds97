@@ -3,9 +3,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-lucashnds@gmail.com-D44638?style=flat-square&logo=Gmail&logoColor=white&textcolor=white&link=mailto:lucashnds@gmail.com)](mailto:lucashnds@gmail.com)
 
 
-## Skills:
-Programming: Python, C/C++, R, Go and Julia
-Databases: PostgresSQL, MySQL and MongoDB
-GIS: PostGIS, QGIS, SPRING, Grass and GDAL
-3D Modeling: Blender
-OS: Linux
+## Skills
+- Programming: Python, C/C++, R, Go and Julia
+- Databases: PostgresSQL, MySQL and MongoDB
+- GIS: PostGIS, QGIS, SPRING, Grass and GDAL
+- 3D Modeling: Blender
+- OS: Linux

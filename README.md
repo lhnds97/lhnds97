@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-lhnds97-00acee?style=flat-square&logo=Twitter&logoColor=white&textColor=white&link=https://twitter.com/lhnds97)](https://twitter.com/lhnds97)
 [![Gmail Badge](https://img.shields.io/badge/-lucashnds@gmail.com-D44638?style=flat-square&logo=Gmail&logoColor=white&textcolor=white&link=mailto:lucashnds@gmail.com)](mailto:lucashnds@gmail.com)
 
-00acee
+
 ## Skills
 - __Programming__: Python, C/C++, R, Go and Julia
 - __Databases__: PostgresSQL, MySQL and MongoDB

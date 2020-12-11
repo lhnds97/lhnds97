@@ -5,8 +5,8 @@
 
 
 ## Skills
-- __Programming__: Python, C/C++, R, Go and Julia
-- __Databases__: PostgresSQL, MySQL and MongoDB
-- __GIS__: PostGIS, QGIS, SPRING, Grass and GDAL
+- __Programming__: Python, C/C++ and R
+- __Databases__: PostgresSQL
+- __GIS__: PostGIS, QGIS and GDAL
 - __3D Modeling__: Blender
 - __OS__: Linux
